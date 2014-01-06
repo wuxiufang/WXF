@@ -17,6 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"我是clx");
+    NSLog(@"this is a test");
     NSLog(@"我是WXF");
     NSLog(@"ljw");
 	// Do any additional setup after loading the view, typically from a nib.
