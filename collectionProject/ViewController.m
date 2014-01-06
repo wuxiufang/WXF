@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
     NSLog(@"我是WXF......");
+    NSLog(@"我是clx");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
